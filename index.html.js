@@ -42,12 +42,6 @@ module.exports = `
         const Form_Title = " [formTitle]";
         const COLUMNS = "[airtableFieldNames]";
 
-        // const Form_Title = " Hard-coded Test Form";
-        // const API_KEY = "keyDMhVqJQ9UD8ulr";
-        // const BASE_KEY = "appqy19Yo7eJo6vqC";
-        // const BASE_NAME = "Artists";
-        // const COLUMNS = "Name,Mobile,Email";
-
         let formCreated = false;
         let columnSet = new Set();
 
